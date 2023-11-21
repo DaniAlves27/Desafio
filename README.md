@@ -5,4 +5,4 @@
 <br>
 <br>
   
-<img src="https://github.com/DaniAlves27/Projeto-Html-CSS/blob/main/Captura%20de%20tela%202023-11-21%20165223.png?raw=true" alt="print-pag"/>
+<img src="https://github.com/DaniAlves27/Projeto-Html-CSS/blob/main/Captura%20de%20tela%202023-11-21%20165223.png?raw=true" alt="print"/>
